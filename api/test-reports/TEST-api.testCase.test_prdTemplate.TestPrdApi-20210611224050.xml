@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<testsuite name="api.testCase.test_prdTemplate.TestPrdApi-20210611224050" tests="1" time="1.222" failures="0" errors="0">
+	<testcase classname="api.testCase.test_prdTemplate.TestPrdApi" name="test_prdadd" time="1.222"/>
+	<system-out><![CDATA[200
+1
+]]></system-out>
+	<system-err><![CDATA[C:\Users\zhongyc27701\PycharmProjects\interface_test_wuya\api\page\user.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  d = yaml.load(cfg)
+C:\Users\zhongyc27701\PycharmProjects\interface_test_wuya\api\page\user.py:36: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  d = yaml.load(cfg)
+]]></system-err>
+</testsuite>
